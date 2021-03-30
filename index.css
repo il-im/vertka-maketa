@@ -1,0 +1,48 @@
+*{
+    margin:0%;
+    padding:0;
+}
+header{
+    background: blueviolet;
+    padding-left: 50px;
+    padding-top: 50px;
+    height: 50px;
+    color:black
+}
+span{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.right h1{
+    text-align: center;
+    
+}
+.akira{
+    width:200px ;
+    height: 300px;
+   
+}
+.долина{
+    width:200px ;
+    height: 300px;
+    text-align: center;
+}
+.search{
+    text-align: center;
+
+}
+.search > input {
+    width: 500px;
+    height: 30px;
+}
+.search>button{
+    width: 50px;
+    height: 30px;
+}
+.our{
+    text-align: center;
+}
+::placeholder{
+    width: 50px;
+}
